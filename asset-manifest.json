@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/man-exists/deez-carti-maker/static/css/main.c08cd54a.chunk.css",
+    "main.js": "/man-exists/deez-carti-maker/static/js/main.b8a92771.chunk.js",
+    "main.js.map": "/man-exists/deez-carti-maker/static/js/main.b8a92771.chunk.js.map",
+    "runtime-main.js": "/man-exists/deez-carti-maker/static/js/runtime-main.8a4fe92d.js",
+    "runtime-main.js.map": "/man-exists/deez-carti-maker/static/js/runtime-main.8a4fe92d.js.map",
+    "static/js/2.351b1510.chunk.js": "/man-exists/deez-carti-maker/static/js/2.351b1510.chunk.js",
+    "static/js/2.351b1510.chunk.js.map": "/man-exists/deez-carti-maker/static/js/2.351b1510.chunk.js.map",
+    "index.html": "/man-exists/deez-carti-maker/index.html",
+    "static/css/main.c08cd54a.chunk.css.map": "/man-exists/deez-carti-maker/static/css/main.c08cd54a.chunk.css.map",
+    "static/js/2.351b1510.chunk.js.LICENSE.txt": "/man-exists/deez-carti-maker/static/js/2.351b1510.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a4fe92d.js",
+    "static/js/2.351b1510.chunk.js",
+    "static/css/main.c08cd54a.chunk.css",
+    "static/js/main.b8a92771.chunk.js"
+  ]
+}
