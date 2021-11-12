@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,UACI,WAAY,CACZ,sBACJ,CAEA,EACI,WACJ","file":"main.6c5710d5.chunk.css","sourcesContent":["html, body {\r\n    height: 100%;\r\n    font-family: sans-serif;\r\n}\r\n\r\n* {\r\n    padding: 2px;\r\n}\r\n"]}
